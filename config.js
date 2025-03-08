@@ -3,8 +3,8 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  ownerID: ["731691419848147067"], 
+  mongodbUri : "http://srv://shivashiva@musicbotyt.ouljyww.mongodb.net/?retryWhites=true&w=majority",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
@@ -17,9 +17,9 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "XX",
-      password: "enteryourcustompass",
-      host: "180.188.226.76",
+      name: "AvNode",
+      password: "354354A",
+      host: "0.0.0.0",
       port:  7019,
       secure: false
     }
